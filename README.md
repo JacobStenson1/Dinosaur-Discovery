@@ -3,4 +3,4 @@ ALevel Project
 
 Jacob Stenson's year 12/13 python project.
 
-You cannot use it unless I give you permission.
+You cannot use this code unless I give you permission.
